@@ -1,0 +1,20 @@
+{
+  "name": "Express-Web3-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ganache-cli": "^6.1.0",
+    "nodemon": "^1.17.3",
+    "solc": "^0.4.23",
+    "web3": "^0.20.2"
+  }
+}
